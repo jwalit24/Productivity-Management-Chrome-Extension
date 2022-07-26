@@ -19,8 +19,9 @@ The user can write the name of the websites he/she needs to block. Those website
 
 It helps the user to add tasks. The tasks can be classified into Completed and not Completed. Once a task is completed you can change it from not complete to complete.
 ###### Take a Break
+![4](https://user-images.githubusercontent.com/84279536/180935515-a91e07dd-6a5f-4787-abd7-3736c237e8e7.jpg)
 This feature helps you to set break time. Just set the start and end time of the break in 24hr format. You would be notified at the start of the break and when the break ends. During the break all the sites would remain blocked.
 ###### Alarm
-Alarm prompts the user with![4](https://user-images.githubusercontent.com/84279536/180935515-a91e07dd-6a5f-4787-abd7-3736c237e8e7.jpg)
+Alarm prompts the user with
  a notification when the time arrives. Here you have to enter the actual time when you want the alarm in 24hr format. 
 All these features would help you to increase your productivity.
